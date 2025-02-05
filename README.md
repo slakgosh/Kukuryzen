@@ -7,6 +7,6 @@ kukuryzen it's 'word game' in russian language 'Kukuruza' its corn. And we have 
 # Stats
 ![Kukuryzen](https://github-readme-stats.vercel.app/api?username=Kukuryzen&show_icons=true&theme=gruvbox&hide=["issues"])
 
-![Kukuryzen](https://github-readme-stats.vercel.app/api/top-langs?username=Kukuryzen&show_icons=true&theme=gruvboxn&layout=compact)
+![Kukuryzen](https://github-readme-stats.vercel.app/api/top-langs?username=Kukuryzen&show_icons=true&theme=gruvbox&layout=compact)
 
 # It's end
